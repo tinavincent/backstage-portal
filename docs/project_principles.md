@@ -55,3 +55,11 @@ Examples include:
 - MCP servers
 
 The portal should become the entry point into the ecosystem rather than owning every capability.
+
+## Learn Backstage before extending Backstage
+
+Treat the first iterations as a learning phase.
+
+Prefer understanding the standard platform before introducing custom plugins or workflows.
+
+Customizations should solve observed problems rather than anticipated ones.

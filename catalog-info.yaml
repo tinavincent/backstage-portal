@@ -10,5 +10,5 @@ metadata:
 
 spec:
   type: website
-  owner: user:tina
+  owner: guests
   lifecycle: experimental
