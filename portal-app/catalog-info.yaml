@@ -1,13 +1,14 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
+
 metadata:
-  name: portal-app
-  description: An example of a Backstage application.
-  # Example for optional annotations
-  # annotations:
-  #   github.com/project-slug: backstage/backstage
-  #   backstage.io/techdocs-ref: dir:.
+  name: backstage-portal
+  title: My Hackstage 
+  description: Personal developer portal for managing vibecoding projects.
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+
 spec:
   type: website
-  owner: john@example.com
+  owner: user:tina
   lifecycle: experimental
